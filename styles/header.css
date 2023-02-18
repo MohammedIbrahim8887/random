@@ -1,0 +1,17 @@
+.header-bar {
+    display: flex;
+    flex-direction: row;
+    left: 160px;
+    top: 0;
+    right: 0;
+    bottom: 80px;
+}
+
+.search-bar {
+    display: flex;
+    flex-direction: row;
+    width: 25rem;
+    align-items: left;
+    border-width: 2px;
+    border-color: #72a5e7;
+}
